@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruthishkumarr" alt="ruthishkumarr" /></a> </p>
 
-- 🌱 I’m currently learning **MERN STACKS**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 💬 Ask me about **C,PYTHON,JS,React JS,Node JS,Mongo DB,Express JS,SQL**
 
